@@ -1,2 +1,2 @@
-# LiterAlura_
-Este pequeño proyecto es un catálogo de libros que ofrezca interacción con los usuarios a través de la consola. 
+# LiterAlura
+LiterAlura es una aplicación de consola desarrollada en Java que permite consultar y gestionar un catalogo de libros.
